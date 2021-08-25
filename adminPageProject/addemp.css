@@ -1,0 +1,32 @@
+p{
+    font-family: 'Poppins', sans-serif;
+    color: #20b2aa;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 2em;
+}
+
+.container{
+    padding-bottom: 2em;
+}
+
+.from{
+    text-align: center;
+}
+.container .form .from-in{
+    padding: 2em;
+    padding-left: 1em;
+}
+
+input, select{
+    width: 80%;
+    padding: 1em;
+    font-size: 1em;
+}
+
+#btn{
+    background-color: #20b2aa;
+    padding: 0em 2em;
+    font-size: larger;
+    border-radius: 20px;
+}
